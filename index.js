@@ -25,5 +25,8 @@ function switchOnCharmFromTip() {
     case n:
       return '';
       break;
+    default:
+      return '';
   }
 }
+

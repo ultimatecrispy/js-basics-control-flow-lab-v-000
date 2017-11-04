@@ -19,14 +19,13 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmFromTip() {
   switch () {
-    case n:
+    case 0:
       return 'Thank you so much.';
       break;
-    case n:
+    case 1:
       return '';
       break;
     default:
       return '';
   }
 }
-

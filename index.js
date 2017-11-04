@@ -27,5 +27,5 @@ function switchOnCharmFromTip() {
   //     break;
   //   default:
   //     return '';
-  }
+  // }
 }

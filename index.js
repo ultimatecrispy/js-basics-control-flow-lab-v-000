@@ -19,7 +19,7 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmFromTip(tip) {
   switch (tip) {
-    case "generous":
+    case "yes":
       return 'Thank you so much.';
       break;
     case "no":

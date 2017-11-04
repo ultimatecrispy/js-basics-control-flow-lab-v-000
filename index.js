@@ -18,14 +18,14 @@ function ternaryCheckCity(city) {
 }
 
 function switchOnCharmFromTip() {
-  // switch () {
-  //   case 0:
-  //     return 'Thank you so much.';
-  //     break;
+  switch () {
+    case "generous":
+      return 'Thank you so much.';
+      break;
   //   case 1:
   //     return '';
   //     break;
-  //   default:
-  //     return '';
-  // }
+    default:
+      return '';
+  }
 }

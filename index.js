@@ -26,6 +26,6 @@ function switchOnCharmFromTip() {
   //     return '';
   //     break;
     default:
-      return '';
+      return 'Bye';
   }
 }
